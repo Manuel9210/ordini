@@ -1,0 +1,1592 @@
+{
+  "table": "order_items",
+  "columns": [
+    "id",
+    "order_id",
+    "description",
+    "quantity",
+    "delivered",
+    "created_at",
+    "delivered_quantity"
+  ],
+  "row_count": 175,
+  "exported_at": "2026-09-17T17:06:03.230Z",
+  "rows": [
+    {
+      "created_at": "2026-08-31T14:06:35.213Z",
+      "delivered": 1,
+      "delivered_quantity": 3,
+      "description": "Copiglie 10 e 11  tre scat per mis",
+      "id": 22,
+      "order_id": 12,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-08-31T14:06:35.213Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "PECE",
+      "id": 23,
+      "order_id": 12,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-01T07:27:02.241Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "calibro borletti",
+      "id": 36,
+      "order_id": 17,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-01T07:27:02.241Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "dischetti 0.3",
+      "id": 37,
+      "order_id": 17,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-01T07:27:02.241Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "frese a corindone rosa palline e coniche",
+      "id": 38,
+      "order_id": 17,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-01T07:37:49.766Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "BATTITORE FARO",
+      "id": 40,
+      "order_id": 10,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-01T07:37:49.766Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "CARBONICINI FARO VECCHI",
+      "id": 41,
+      "order_id": 10,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-01T07:37:49.766Z",
+      "delivered": 1,
+      "delivered_quantity": 3,
+      "description": "BULINI N1",
+      "id": 42,
+      "order_id": 10,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-09-01T07:37:49.766Z",
+      "delivered": 1,
+      "delivered_quantity": 50,
+      "description": "DISCHETTI 0.2",
+      "id": 43,
+      "order_id": 10,
+      "quantity": 50
+    },
+    {
+      "created_at": "2026-09-01T09:09:27.131Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "TFP60-B",
+      "id": 45,
+      "order_id": 20,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-02T08:40:12.245Z",
+      "delivered": 1,
+      "delivered_quantity": 100,
+      "description": "Wd481cw",
+      "id": 60,
+      "order_id": 24,
+      "quantity": 100
+    },
+    {
+      "created_at": "2026-09-02T08:40:12.245Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Midori verdi",
+      "id": 61,
+      "order_id": 24,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-02T08:40:12.245Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Aspettare per altre cose",
+      "id": 62,
+      "order_id": 24,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-02T09:34:48.172Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Tele 150",
+      "id": 67,
+      "order_id": 27,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-02T09:43:59.666Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Acido borico",
+      "id": 70,
+      "order_id": 30,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-02T10:23:30.613Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Tela 320 bobina",
+      "id": 72,
+      "order_id": 32,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-02T10:23:30.613Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fig 1 10",
+      "id": 73,
+      "order_id": 32,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-02T10:23:30.613Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Coniche 07",
+      "id": 74,
+      "order_id": 32,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-02T10:23:30.613Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Cilindriche 07",
+      "id": 75,
+      "order_id": 32,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-02T10:23:30.613Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Gommini grigi",
+      "id": 76,
+      "order_id": 32,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-02T10:23:30.613Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Gommini a taglio grigi",
+      "id": 77,
+      "order_id": 32,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-02T10:23:30.613Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Spazz bianca dura",
+      "id": 78,
+      "order_id": 32,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-02T10:51:34.841Z",
+      "delivered": 0,
+      "delivered_quantity": 0.35,
+      "description": "Tele 120 1kg",
+      "id": 83,
+      "order_id": 34,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-02T13:37:06.569Z",
+      "delivered": 1,
+      "delivered_quantity": 3,
+      "description": "Tronchese da 10",
+      "id": 89,
+      "order_id": 38,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-09-02T13:55:27.847Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "punte 0.55 senza gambo",
+      "id": 90,
+      "order_id": 39,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-09-03T08:37:18.130Z",
+      "delivered": 1,
+      "delivered_quantity": 20,
+      "description": "LIME AGO TRIANGOLO TG 4",
+      "id": 91,
+      "order_id": 18,
+      "quantity": 20
+    },
+    {
+      "created_at": "2026-09-03T08:37:18.130Z",
+      "delivered": 1,
+      "delivered_quantity": 20,
+      "description": "tronchesi",
+      "id": 92,
+      "order_id": 18,
+      "quantity": 20
+    },
+    {
+      "created_at": "2026-09-03T09:14:38.271Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "2 filtri mascherina plastica",
+      "id": 93,
+      "order_id": 40,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-03T09:48:46.166Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Sgrassatura",
+      "id": 94,
+      "order_id": 41,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-03T10:00:12.044Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Spazz metallo",
+      "id": 95,
+      "order_id": 42,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-03T10:00:12.044Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Gommini verdi",
+      "id": 96,
+      "order_id": 42,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-03T10:35:24.916Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Gesso",
+      "id": 97,
+      "order_id": 43,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-03T11:57:57.326Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Sasso marcio",
+      "id": 98,
+      "order_id": 44,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-03T12:04:30.170Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Bulino n6",
+      "id": 99,
+      "order_id": 45,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-03T12:34:47.851Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Fegato di zolfo da 15",
+      "id": 100,
+      "order_id": 46,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-03T12:54:49.476Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Tele 150",
+      "id": 101,
+      "order_id": 47,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-03T13:17:45.227Z",
+      "delivered": 1,
+      "delivered_quantity": 15,
+      "description": "Gommini grigi dare 15",
+      "id": 105,
+      "order_id": 49,
+      "quantity": 15
+    },
+    {
+      "created_at": "2026-09-03T15:19:23.995Z",
+      "delivered": 1,
+      "delivered_quantity": 3,
+      "description": "spazzole bloccate nere",
+      "id": 111,
+      "order_id": 51,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-09-04T08:34:19.960Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Hh 16 17",
+      "id": 112,
+      "order_id": 53,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-04T08:41:17.424Z",
+      "delivered": 1,
+      "delivered_quantity": 100,
+      "description": "Lega gialla 18kt",
+      "id": 113,
+      "order_id": 54,
+      "quantity": 100
+    },
+    {
+      "created_at": "2026-09-04T09:34:27.350Z",
+      "delivered": 1,
+      "delivered_quantity": 500,
+      "description": "Wh80b2",
+      "id": 114,
+      "order_id": 55,
+      "quantity": 500
+    },
+    {
+      "created_at": "2026-09-04T10:24:37.226Z",
+      "delivered": 1,
+      "delivered_quantity": 20,
+      "description": "gesso",
+      "id": 122,
+      "order_id": 50,
+      "quantity": 20
+    },
+    {
+      "created_at": "2026-09-04T10:24:37.226Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "lega argento",
+      "id": 123,
+      "order_id": 50,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-04T10:24:37.226Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "gomma bianca sottile",
+      "id": 124,
+      "order_id": 50,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-04T10:24:37.226Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "gomma bianca doppia",
+      "id": 125,
+      "order_id": 50,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-04T10:24:37.226Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "bronzo",
+      "id": 126,
+      "order_id": 50,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-04T10:24:37.226Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "pezzi per forno",
+      "id": 127,
+      "order_id": 50,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-04T12:05:53.974Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fig 1 6 7 8",
+      "id": 128,
+      "order_id": 56,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-04T12:05:53.974Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Granell 8",
+      "id": 129,
+      "order_id": 56,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-04T12:58:43.251Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Cartone acqua diatillata",
+      "id": 130,
+      "order_id": 57,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-04T12:58:43.251Z",
+      "delivered": 1,
+      "delivered_quantity": 20,
+      "description": "Pelo capra",
+      "id": 131,
+      "order_id": 57,
+      "quantity": 20
+    },
+    {
+      "created_at": "2026-09-04T12:58:43.251Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Spazz nucleo rosso",
+      "id": 132,
+      "order_id": 57,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-04T12:58:43.251Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Pennelli bianchi",
+      "id": 133,
+      "order_id": 57,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-04T12:58:43.251Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Pennelli neri",
+      "id": 134,
+      "order_id": 57,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-04T13:11:06.606Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Fogli 1200",
+      "id": 135,
+      "order_id": 58,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-04T13:26:27.029Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Anodo platinare 2 litri",
+      "id": 136,
+      "order_id": 59,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:31:17.280Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Coniche 6 10",
+      "id": 137,
+      "order_id": 60,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:31:17.280Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Aghi x infilaperla 0,24 0x36",
+      "id": 138,
+      "order_id": 60,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:43:15.886Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Mandarini 2,35",
+      "id": 139,
+      "order_id": 61,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-07T10:45:42.723Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fig 58 05.06",
+      "id": 147,
+      "order_id": 63,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:45:42.723Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Coniche 06",
+      "id": 148,
+      "order_id": 63,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:45:42.723Z",
+      "delivered": 1,
+      "delivered_quantity": 100,
+      "description": "Dischetti 03",
+      "id": 149,
+      "order_id": 63,
+      "quantity": 100
+    },
+    {
+      "created_at": "2026-09-07T10:45:42.723Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fig 23 7 8",
+      "id": 150,
+      "order_id": 63,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:45:42.723Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Calibro digitale",
+      "id": 151,
+      "order_id": 63,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:45:42.723Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Frese corendo",
+      "id": 152,
+      "order_id": 63,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:45:42.723Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fegato zolfo economico",
+      "id": 153,
+      "order_id": 63,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T10:49:10.047Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "1 agitatore grafite",
+      "id": 154,
+      "order_id": 64,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T14:48:34.858Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Cono borace",
+      "id": 155,
+      "order_id": 65,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-07T14:51:20.548Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Colla verde",
+      "id": 156,
+      "order_id": 48,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-07T14:51:20.548Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Jobber 09",
+      "id": 157,
+      "order_id": 48,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-08T07:50:49.106Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "acqua naturale",
+      "id": 158,
+      "order_id": 66,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-08T07:51:10.694Z",
+      "delivered": 1,
+      "delivered_quantity": 4,
+      "description": "acqua naturale",
+      "id": 159,
+      "order_id": 67,
+      "quantity": 4
+    },
+    {
+      "created_at": "2026-09-08T07:55:59.993Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "frese fig h71 dalla 3 alla 8 tungsteno",
+      "id": 160,
+      "order_id": 68,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T07:55:59.993Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "frese fig 23 dalla 9 alla 16",
+      "id": 161,
+      "order_id": 68,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T08:02:43.739Z",
+      "delivered": 1,
+      "delivered_quantity": 3,
+      "description": "gesso",
+      "id": 162,
+      "order_id": 69,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-09-08T08:03:58.533Z",
+      "delivered": 1,
+      "delivered_quantity": 3,
+      "description": "gesso",
+      "id": 163,
+      "order_id": 70,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-09-08T08:03:58.533Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "imbianchimento",
+      "id": 164,
+      "order_id": 70,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-08T08:38:14.629Z",
+      "delivered": 1,
+      "delivered_quantity": 100,
+      "description": "Gommini verdi",
+      "id": 165,
+      "order_id": 71,
+      "quantity": 100
+    },
+    {
+      "created_at": "2026-09-08T11:41:42.893Z",
+      "delivered": 1,
+      "delivered_quantity": 20,
+      "description": "Granell 5 6 7 8 9",
+      "id": 166,
+      "order_id": 72,
+      "quantity": 20
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Rotolo 320",
+      "id": 167,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Tele 120",
+      "id": 168,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Archetti",
+      "id": 169,
+      "order_id": 73,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Cross n2 n1",
+      "id": 170,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Inbianchimento rosa",
+      "id": 171,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Mezerna bianco grande",
+      "id": 172,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Borace gialla",
+      "id": 173,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Fogli 320",
+      "id": 174,
+      "order_id": 73,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Fogli 220",
+      "id": 175,
+      "order_id": 73,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Punzone 925 1 2 misura curvo",
+      "id": 176,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Punzone 1 2 misura dritto",
+      "id": 177,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Spazzola lamellare  220 280",
+      "id": 178,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Spazzola lamella 320",
+      "id": 179,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Spazzo metall",
+      "id": 180,
+      "order_id": 73,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Pennelli metall",
+      "id": 181,
+      "order_id": 73,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Spazz acciaio x pukitrice",
+      "id": 182,
+      "order_id": 73,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Molle che mantiene trapano",
+      "id": 183,
+      "order_id": 73,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Coniche 07 10",
+      "id": 184,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Fig 23 n10",
+      "id": 185,
+      "order_id": 73,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-08T12:20:23.204Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Spazz bianco da trapano",
+      "id": 186,
+      "order_id": 73,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:24:25.993Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Filtro lava mani",
+      "id": 187,
+      "order_id": 74,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:24:25.993Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Spugnetta verde sempre lava mani",
+      "id": 188,
+      "order_id": 74,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T12:50:18.422Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Jobber 07 09",
+      "id": 190,
+      "order_id": 76,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T13:44:28.720Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Bobina dado",
+      "id": 191,
+      "order_id": 77,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T14:16:39.772Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "HD 2frese x 10 12 13 14",
+      "id": 192,
+      "order_id": 78,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T14:16:39.772Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Gran 100x 4 6 10",
+      "id": 193,
+      "order_id": 78,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T14:16:39.772Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Bulino n0",
+      "id": 194,
+      "order_id": 78,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-08T15:11:46.616Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Schina 00",
+      "id": 195,
+      "order_id": 79,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-09T07:07:01.213Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "15g lega saldatura gialla",
+      "id": 196,
+      "order_id": 80,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-09T09:55:12.264Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Tele 150",
+      "id": 197,
+      "order_id": 81,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-09T10:20:08.141Z",
+      "delivered": 1,
+      "delivered_quantity": 20,
+      "description": "Spazzolini setola nera",
+      "id": 198,
+      "order_id": 82,
+      "quantity": 20
+    },
+    {
+      "created_at": "2026-09-09T10:54:48.767Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Pece gialla",
+      "id": 199,
+      "order_id": 83,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-09T11:43:06.084Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Jobber 1,10",
+      "id": 200,
+      "order_id": 84,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-09T12:46:10.991Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fig 1 da 10 a 16",
+      "id": 201,
+      "order_id": 85,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-09T14:20:11.394Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Righe",
+      "id": 202,
+      "order_id": 86,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-10T09:30:37.664Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Spazz nucleo rosso",
+      "id": 203,
+      "order_id": 87,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-10T12:09:43.003Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Bollo 2 misura curvo 925",
+      "id": 204,
+      "order_id": 88,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-10T12:09:43.003Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Morsetto x tele Ottone",
+      "id": 205,
+      "order_id": 88,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-10T12:09:43.003Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Mezerna piccolo bianco",
+      "id": 206,
+      "order_id": 88,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-10T12:11:15.916Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "100g aghetti 04",
+      "id": 207,
+      "order_id": 89,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-10T13:16:59.205Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Plasticast",
+      "id": 208,
+      "order_id": 90,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-10T13:35:19.344Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Alberino gommino",
+      "id": 209,
+      "order_id": 91,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-10T13:35:19.344Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Alberino x sopposte",
+      "id": 210,
+      "order_id": 91,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T09:02:59.011Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Scappo la piana n6",
+      "id": 211,
+      "order_id": 92,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T09:02:59.011Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Dischetto Diamantopoulou",
+      "id": 212,
+      "order_id": 92,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T09:20:20.838Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Frusta senza manipolo",
+      "id": 213,
+      "order_id": 93,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T09:20:20.838Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Hh 14 16 18",
+      "id": 214,
+      "order_id": 93,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-11T09:20:20.838Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Dischetti grana media come dati a Panfilia",
+      "id": 215,
+      "order_id": 93,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-11T09:21:31.456Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "Anche dischetti più sottili",
+      "id": 216,
+      "order_id": 94,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-11T09:24:34.284Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fig 23 8 10 11 12 24 28",
+      "id": 217,
+      "order_id": 95,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T09:24:34.284Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Coniche 8 10",
+      "id": 218,
+      "order_id": 95,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T09:31:50.344Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fig 58 07",
+      "id": 220,
+      "order_id": 97,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T09:53:48.611Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Hh 12",
+      "id": 221,
+      "order_id": 98,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T10:35:52.830Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "250g lega rosa 9ct meccanica",
+      "id": 222,
+      "order_id": 99,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T12:09:14.956Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Tela 320",
+      "id": 223,
+      "order_id": 96,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-11T14:59:36.518Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Colla verde",
+      "id": 224,
+      "order_id": 100,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T15:00:02.688Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Pedale strong piccolino",
+      "id": 225,
+      "order_id": 101,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-11T15:23:49.048Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Anelliere ferro",
+      "id": 226,
+      "order_id": 102,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-11T18:42:13.744Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Gf2n",
+      "id": 227,
+      "order_id": 103,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-14T08:55:17.077Z",
+      "delivered": 1,
+      "delivered_quantity": 100,
+      "description": "Busta gommini grigi",
+      "id": 231,
+      "order_id": 105,
+      "quantity": 100
+    },
+    {
+      "created_at": "2026-09-14T08:55:17.077Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Rotolo 320",
+      "id": 232,
+      "order_id": 105,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-14T08:55:17.077Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Coniche 06",
+      "id": 233,
+      "order_id": 105,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-14T08:55:17.077Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Cilindriche 08 12",
+      "id": 234,
+      "order_id": 105,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-14T08:55:17.077Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Fig 23 n6",
+      "id": 235,
+      "order_id": 105,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-14T08:55:17.077Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Dischetti 0,3",
+      "id": 236,
+      "order_id": 105,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-14T08:56:40.297Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "2 spazz nucleo blu",
+      "id": 237,
+      "order_id": 104,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-14T08:56:40.297Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Passa carta 360 1200",
+      "id": 238,
+      "order_id": 104,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-14T08:56:40.297Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Gf2n sen",
+      "id": 239,
+      "order_id": 104,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-14T08:56:40.297Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Acqua distillata",
+      "id": 240,
+      "order_id": 104,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-14T10:09:52.234Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "10g lega gialla",
+      "id": 241,
+      "order_id": 106,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-15T07:36:51.657Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "acido borico",
+      "id": 242,
+      "order_id": 107,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-15T07:36:51.657Z",
+      "delivered": 1,
+      "delivered_quantity": 10,
+      "description": "seghette per cera",
+      "id": 243,
+      "order_id": 107,
+      "quantity": 10
+    },
+    {
+      "created_at": "2026-09-15T07:36:51.657Z",
+      "delivered": 1,
+      "delivered_quantity": 100,
+      "description": "gommini grigi",
+      "id": 244,
+      "order_id": 107,
+      "quantity": 100
+    },
+    {
+      "created_at": "2026-09-15T07:36:51.657Z",
+      "delivered": 1,
+      "delivered_quantity": 15,
+      "description": "minipunte marroni",
+      "id": 245,
+      "order_id": 107,
+      "quantity": 15
+    },
+    {
+      "created_at": "2026-09-15T08:36:41.849Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "2c1 10 12 14",
+      "id": 247,
+      "order_id": 108,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-15T08:36:41.849Z",
+      "delivered": 1,
+      "delivered_quantity": 5,
+      "description": "Gommini grigi",
+      "id": 248,
+      "order_id": 108,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-15T09:24:53.527Z",
+      "delivered": 1,
+      "delivered_quantity": 4,
+      "description": "Fresil",
+      "id": 249,
+      "order_id": 109,
+      "quantity": 4
+    },
+    {
+      "created_at": "2026-09-15T10:52:05.679Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Spazzola da banco",
+      "id": 250,
+      "order_id": 110,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-15T11:00:59.773Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Piattina 4 6 8",
+      "id": 252,
+      "order_id": 111,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-15T11:00:59.773Z",
+      "delivered": 1,
+      "delivered_quantity": 3,
+      "description": "Granell da 4 a 12",
+      "id": 253,
+      "order_id": 111,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-09-15T15:41:29.745Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Optima",
+      "id": 254,
+      "order_id": 112,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-16T07:42:26.966Z",
+      "delivered": 1,
+      "delivered_quantity": 4,
+      "description": "Bulino n1",
+      "id": 259,
+      "order_id": 115,
+      "quantity": 4
+    },
+    {
+      "created_at": "2026-09-16T07:44:01.031Z",
+      "delivered": 1,
+      "delivered_quantity": 2,
+      "description": "Gesso optima",
+      "id": 260,
+      "order_id": 114,
+      "quantity": 2
+    },
+    {
+      "created_at": "2026-09-16T07:44:01.031Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Sf925ch",
+      "id": 261,
+      "order_id": 114,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-16T10:05:10.866Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Spazz nucleo blu",
+      "id": 262,
+      "order_id": 116,
+      "quantity": 3
+    },
+    {
+      "created_at": "2026-09-16T12:47:51.789Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Gf3n senz",
+      "id": 263,
+      "order_id": 117,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-16T14:17:37.819Z",
+      "delivered": 1,
+      "delivered_quantity": 1,
+      "description": "Gf1n",
+      "id": 264,
+      "order_id": 118,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-16T15:57:20.373Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "10 filtri pulite ice",
+      "id": 265,
+      "order_id": 119,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-17T09:44:02.039Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Radial",
+      "id": 266,
+      "order_id": 120,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-17T09:44:02.039Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Tpro",
+      "id": 267,
+      "order_id": 120,
+      "quantity": 5
+    },
+    {
+      "created_at": "2026-09-17T10:40:08.344Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Gf2n",
+      "id": 268,
+      "order_id": 121,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-17T11:43:47.391Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Spazzola x satinare larga",
+      "id": 269,
+      "order_id": 122,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-17T14:02:43.528Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "HD 9 10",
+      "id": 274,
+      "order_id": 124,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-17T14:02:43.528Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Scappolapiana grs n6",
+      "id": 275,
+      "order_id": 124,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-17T14:02:43.528Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Bulino grs n1",
+      "id": 276,
+      "order_id": 124,
+      "quantity": 1
+    },
+    {
+      "created_at": "2026-09-17T14:02:43.528Z",
+      "delivered": 0,
+      "delivered_quantity": 0,
+      "description": "Manico grs",
+      "id": 277,
+      "order_id": 124,
+      "quantity": 1
+    }
+  ]
+}
+

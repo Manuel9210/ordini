@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "exported_at": "2026-09-17T18:04:38.499115+00:00",
+  "source_project_ref": "ulzhaqmklrplooccbxzx",
+  "auth_users": 5,
+  "auth_identities": 5,
+  "public_application_tables": 0,
+  "storage_objects": 0,
+  "included": [
+    "auth.users (subset required for account restoration)",
+    "auth.identities"
+  ],
+  "intentionally_excluded": [
+    "auth.sessions",
+    "auth.refresh_tokens",
+    "auth.one_time_tokens",
+    "API secret keys",
+    "JWT secret",
+    "database password",
+    "Dashboard configuration"
+  ]
+}
+
