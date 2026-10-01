@@ -6,7 +6,11 @@ const config = JSON.parse(await readFile(configPath, "utf8"));
 
 config.name = "ordini";
 config.topLevelName = "ordini";
-config.d1_databases = [{ binding: "DB" }];
+config.d1_databases = [{
+  binding: "DB",
+  database_name: "ordini-db",
+  database_id: "393066c8-ccee-4d0a-bbd1-3b887a11c002",
+}];
 config.r2_buckets = [];
 
 await writeFile(configPath, `${JSON.stringify(config)}\n`);
