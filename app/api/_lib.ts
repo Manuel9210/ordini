@@ -1,9 +1,15 @@
 import { SUPABASE_PUBLISHABLE_KEY, SUPABASE_URL } from "../supabase-config";
 import { runtimeEnv as env } from "../runtime-env";
+import { createSupabaseStorage } from "./_storage";
 
 export type AppUser = { id: number; email: string; name: string; role: "admin" | "agent"; active: number; has_avatar: number; avatar_updated_at: string | null };
 export function db() { if (!env.DB) throw new Error("Database non disponibile"); return env.DB; }
-export function bucket() { if (!env.BUCKET) throw new Error("Archivio file non disponibile"); return env.BUCKET; }
+let storage: ReturnType<typeof createSupabaseStorage> | undefined;
+export function bucket() {
+  if (!env.SUPABASE_SECRET_KEY) throw new Error("Archivio file non disponibile");
+  storage ??= createSupabaseStorage({ url: SUPABASE_URL, secret: env.SUPABASE_SECRET_KEY });
+  return storage;
+}
 function cookieValue(request: Request, name: string) {
   const match = request.headers.get("cookie")?.match(new RegExp(`(?:^|;\\s*)${name}=([^;]*)`));
   return match ? decodeURIComponent(match[1]) : "";

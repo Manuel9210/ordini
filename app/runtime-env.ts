@@ -1,6 +1,7 @@
 type RuntimeEnvironment = {
   DB?: any;
   BUCKET?: any;
+  SUPABASE_SECRET_KEY?: string;
   ASSETS?: any;
 };
 
